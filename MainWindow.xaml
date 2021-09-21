@@ -1,0 +1,25 @@
+﻿<Window x:Class="BUTTON_LINK_CLICKER_2021.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BUTTON_LINK_CLICKER_2021"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="528.5" Width="700">
+    <Window.Background>
+        <ImageBrush ImageSource="C:\Users\AHAD RAZA\Downloads\hitesh-choudhary-pMnw5BSZYsA-unsplash.jpg"></ImageBrush>
+    </Window.Background>
+    <StackPanel>
+        <Label  FontSize="35" FontWeight="SemiBold" FontStyle="Normal" Foreground="White" HorizontalAlignment="Center" HorizontalContentAlignment="Center" Content="PROGRAMMING OFFICIAL SITE" Margin="22,0,9,0" Width="761"/>
+        <TextBlock FontWeight="SemiBold" FontSize="35" FontStyle="Normal" Foreground="White" HorizontalAlignment="Center">FOLLOW US</TextBlock>
+        <Button Background="Black" BorderBrush="White" BorderThickness="2" FontStyle="Normal" HorizontalContentAlignment="Center" HorizontalAlignment="Right" Margin="0,0,302,0" Width="86" >
+            <Hyperlink RequestNavigate="Hyperlink_RequestNavigate" NavigateUri="https://www.instagram.com/a_ahadraza/">
+                <Run Text="CLICK HERE"/>
+            </Hyperlink>
+           </Button>
+        <Button Background="Black" BorderBrush="White" BorderThickness="2" FontStyle="Normal" HorizontalContentAlignment="Center" HorizontalAlignment="Right" Margin="0,0,302,0" Width="86" >
+            <Hyperlink RequestNavigate="Hyperlink_RequestNavigate_1" NavigateUri="https://www.youtube.com/channel/UC8GjGWAicCkaZQDylHjNytg">CLICK HERE</Hyperlink>
+        </Button>
+        
+    </StackPanel>
+</Window>

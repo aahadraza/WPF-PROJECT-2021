@@ -1,0 +1,15 @@
+C:\Users\AHAD RAZA\Desktop\New folder\BUTTON LINK CLICKER 2021\bin\Debug\BUTTON LINK CLICKER 2021.exe.config
+C:\Users\AHAD RAZA\Desktop\New folder\BUTTON LINK CLICKER 2021\bin\Debug\BUTTON LINK CLICKER 2021.exe
+C:\Users\AHAD RAZA\Desktop\New folder\BUTTON LINK CLICKER 2021\bin\Debug\BUTTON LINK CLICKER 2021.pdb
+C:\Users\AHAD RAZA\Desktop\New folder\BUTTON LINK CLICKER 2021\obj\Debug\BUTTON LINK CLICKER 2021.csproj.AssemblyReference.cache
+C:\Users\AHAD RAZA\Desktop\New folder\BUTTON LINK CLICKER 2021\obj\Debug\MainWindow.g.cs
+C:\Users\AHAD RAZA\Desktop\New folder\BUTTON LINK CLICKER 2021\obj\Debug\App.g.cs
+C:\Users\AHAD RAZA\Desktop\New folder\BUTTON LINK CLICKER 2021\obj\Debug\BUTTON LINK CLICKER 2021_MarkupCompile.cache
+C:\Users\AHAD RAZA\Desktop\New folder\BUTTON LINK CLICKER 2021\obj\Debug\BUTTON LINK CLICKER 2021_MarkupCompile.lref
+C:\Users\AHAD RAZA\Desktop\New folder\BUTTON LINK CLICKER 2021\obj\Debug\MainWindow.baml
+C:\Users\AHAD RAZA\Desktop\New folder\BUTTON LINK CLICKER 2021\obj\Debug\BUTTON LINK CLICKER 2021.g.resources
+C:\Users\AHAD RAZA\Desktop\New folder\BUTTON LINK CLICKER 2021\obj\Debug\BUTTON_LINK_CLICKER_2021.Properties.Resources.resources
+C:\Users\AHAD RAZA\Desktop\New folder\BUTTON LINK CLICKER 2021\obj\Debug\BUTTON LINK CLICKER 2021.csproj.GenerateResource.cache
+C:\Users\AHAD RAZA\Desktop\New folder\BUTTON LINK CLICKER 2021\obj\Debug\BUTTON LINK CLICKER 2021.csproj.CoreCompileInputs.cache
+C:\Users\AHAD RAZA\Desktop\New folder\BUTTON LINK CLICKER 2021\obj\Debug\BUTTON LINK CLICKER 2021.exe
+C:\Users\AHAD RAZA\Desktop\New folder\BUTTON LINK CLICKER 2021\obj\Debug\BUTTON LINK CLICKER 2021.pdb
